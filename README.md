@@ -17,5 +17,6 @@ The below image shows the distribution of most frequent words after removing reg
 **Visualising the Data:** Given categaries were in form of a tree, we extarcted them and stored them such that the categories that have a lot of products are given preference for training. This have helped us a lot because there were some categories having products less than 5. In training the model we have decided not to force-fit our model for these categories however this have not affected our accuracy very much. 
 
 Now for the results:
-
+These are for the prediction of primary category:
+ Accuracy of approx 90%
 ![alt text](https://github.com/shashank19107/Midas_Summer-2021/blob/main/Assets/Screenshot%20from%202021-04-10%2022-00-41.png?raw=true)
